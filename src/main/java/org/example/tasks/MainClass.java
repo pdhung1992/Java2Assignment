@@ -57,7 +57,7 @@ public class MainClass {
                     taskManagement.displayAllTask();
                     break;
                 case 7:
-                    System.out.println("Program ended!");
+                    System.out.println("Program ended! ");
                     logger.info("Program ended!");
                     return;
             }
