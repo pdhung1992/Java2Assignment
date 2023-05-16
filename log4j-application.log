@@ -1,0 +1,11 @@
+2023-05-16 11:44:46 INFO  MainClass:62 - Program ended!
+2023-05-16 11:47:47 ERROR MainClass:30 - >> Err: Please enter a number!
+2023-05-16 11:48:57 ERROR MainClass:30 - Choose can not be empty!
+2023-05-16 11:51:49 INFO  MainClass:61 - Program ended!
+2023-05-16 11:57:25 INFO  TaskManagement:83 - Display all type
+2023-05-16 11:58:00 WARN  TaskManagement:63 - Type ID: 5not found
+2023-05-16 11:59:29 INFO  TaskManagement:30 - Type added
+2023-05-16 11:59:56 WARN  TaskManagement:63 - Type ID: 5 not found
+2023-05-16 12:00:06 INFO  TaskManagement:83 - Display all type
+2023-05-16 12:00:17 INFO  TaskManagement:56 - Removed type Test Typesuccess
+2023-05-16 12:28:27 INFO  TaskManagement:168 - Display all task
