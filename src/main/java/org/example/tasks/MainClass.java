@@ -67,7 +67,7 @@ public class MainClass {
 
     public static int checkChoice(String sChoice) throws Exception{
         if(sChoice.equals("")){
-            throw new Exception("Choose can not be empty!");
+            throw new Exception("Choose can not be empty! ");
         }
         int choice;
         try{
