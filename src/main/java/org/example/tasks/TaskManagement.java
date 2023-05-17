@@ -80,7 +80,7 @@ public class TaskManagement {
                 type.displayType();
             }
 
-            logger.info("Display all type");
+            logger.info("Display all types");
 
             resultSet.close();
             preparedStatement.close();
@@ -165,7 +165,7 @@ public class TaskManagement {
                 );
                 tasks.display();
             }
-            logger.info("Display all task");
+            logger.info("Display all tasks");
             resultSet.close();
             callableStatement.close();
             connection.close();

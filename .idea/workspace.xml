@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb799842-3bee-495a-8d66-f55323a6249d" name="Changes" comment="Assignment2" />
+    <list default="true" id="cb799842-3bee-495a-8d66-f55323a6249d" name="Changes" comment="Assignment 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java2Assignment/src/com/task/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java2Assignment/src/com/task/MainClass.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684123838871</updated>
       <workItem from="1684123839940" duration="795000" />
-      <workItem from="1684209643330" duration="6367000" />
+      <workItem from="1684209643330" duration="6835000" />
     </task>
     <task id="LOCAL-00001" summary="Assignment2">
       <created>1684215530311</created>
@@ -123,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684216538481</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Assignment 2">
+      <created>1684216862124</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684216862124</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Assignment2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment2" />
+    <MESSAGE value="Assignment 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 2" />
   </component>
 </project>
